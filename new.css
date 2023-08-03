@@ -1,0 +1,114 @@
+h1{
+    text-align: center;
+    margin: auto;
+    width:fit-content;  
+    padding: 20px;
+}
+header{
+    margin: auto;
+    width:50%; 
+    border-bottom: 5px solid ;
+    background-color: antiquewhite;
+    border-radius: 25px;
+}
+body{
+    background-image: linear-gradient(to bottom right ,rgb(0, 253, 194), rgb(255, 136, 0), blue);
+}
+a:link {
+    text-decoration: none;
+  }
+a:visited { text-decoration: none; }
+a:active { color: black; }
+a:hover { text-decoration: underline;}
+div{
+    font-size:25px;
+    border-radius: 25px;
+}
+#inst{
+    text-align: center;
+    margin: auto;
+    width:50%;   
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    background-image: linear-gradient(to bottom right,rgb(180, 0, 180),rgb(248, 40, 140),rgba(255, 0, 0, 0.786),yellow);
+    color: white;
+}
+#twi{
+    text-align: center;
+    margin: auto;
+    width:50%;
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(84, 178, 255);
+    color: aliceblue;
+}
+#link{
+    text-align: center;
+    margin: auto;
+    width:50%;   
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(52, 52, 245);
+    color: aliceblue;
+}
+#git{
+    text-align: center;
+    margin: auto;
+    width:50%;   
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(37, 49, 40);
+    color: aliceblue;
+}
+#you{
+    text-align: center;
+    margin: auto;
+    width:50%;   
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(251, 9, 9);
+    color: aliceblue;
+}
+#snap{
+    text-align: center;
+    margin: auto;
+    width:50%;   
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(224, 224, 19);
+    color: aliceblue;
+}
+#what{
+    text-align: center;
+    margin: auto;
+    width:50%;   
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(1, 212, 29);
+    color: aliceblue;
+}
+#gmail{
+    text-align: center;
+    margin: auto;
+    width:50%;   
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:rgba(237, 31, 3, 0.797);
+    color: aliceblue;
+}
