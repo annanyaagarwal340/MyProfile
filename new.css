@@ -2,7 +2,8 @@ h1{
     text-align: center;
     margin: auto;
     width:wrap content;  
-    padding: 2px;
+    padding: 4px;
+    box-sizing:border-box;
 }
 header{
     margin: auto;
@@ -30,7 +31,7 @@ div{
     width:50%;   
     border: 2px solid black;
     padding: 10px;
-    margin-top: 40px;
+    margin-top: 10px;
     margin-bottom: 10px;
     background-image: linear-gradient(to bottom right,rgb(180, 0, 180),rgb(248, 40, 140),rgba(255, 0, 0, 0.786),yellow);
     color: white;
@@ -87,7 +88,7 @@ div{
     padding: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
-    background-color: rgb(224, 224, 19);
+    background-color:  linear-gradient(to bottom right,rgb(180, 0, 180),rgb(248, 40, 140),rgba(255, 0, 0, 0.786),yellow);
     color: aliceblue;
 }
 #what{
